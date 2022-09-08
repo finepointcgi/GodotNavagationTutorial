@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="CubeMesh" id=9]
+
+[node name="CSGMesh2" type="CSGMesh"]
+transform = Transform( 8.61048, 0, 0, 0, 0.243506, 0, 0, 0, 7.15613, -5.27299, 0.0355234, 38.7141 )
+use_collision = true
+mesh = SubResource( 9 )
